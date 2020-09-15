@@ -1,11 +1,5 @@
 export const initialState ={
-  basket:[{
-    id:"9987987",
-    title:"new apple ipad",
-    price:7878,
-    rating:5,
-    image:"https://pngimg.com/uploads/amazon/amazon_PNG11.png",
-  }],
+  basket:[],
   user:null,
 };
 
